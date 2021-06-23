@@ -2,8 +2,9 @@
 
 ## What the assignment was about
  
-**Part 1: Animals:** This assignment reviewed basic functions and methods of the 'pandas' and 'matplotlib' libraries 
-**Part 2: Billionaires:** This assignment applies 'pandas' to a dataset about the world's billionaires
+- **Part 1: Animals:** This assignment reviewed basic functions and methods of the 'pandas' and 'matplotlib' libraries 
+
+- **Part 2: Billionaires:** This assignment applies 'pandas' to a dataset about the world's billionaires
 
 ## Something you learned in the process
 
